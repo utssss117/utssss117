@@ -3,6 +3,7 @@
 <p align="center">
   🚀 Passionate Learner | Python Developer | ML Enthusiast | Web Dev Explorer  
 </p>
+<img hight="400" width="1200" alt="GIF" align="center" src="/videoplayback.mp4">
 
 ---
 
