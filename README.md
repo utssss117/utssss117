@@ -1,53 +1,110 @@
-<h1 align="center">👋 Hi, I'm Utkarsh Mishra</h1>
+<div align="center">
 
-<p align="center">
-  🚀 Passionate Learner | Python Developer | ML Enthusiast | Web Dev Explorer  
-</p>
-<img height="400" width="400" alt="GIF" align="center" src="./videoplayback.gif">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Utkarsh%20Mishra&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%7C%20LLMs%20%7C%20RAG%20%7C%20NLP&descAlignY=55&descSize=18" width="100%"/>
 
----
+</div>
 
-## 🌟 About Me
-I'm a dedicated learner currently exploring **Python, Machine Learning, Data Science, and Web Development**.  
-I enjoy building real-world projects and experimenting with AI-powered applications.
+<br/>
 
----
-
-## 📘 What I'm Learning
-- 🐍 Python (following AKTU syllabus + hands-on projects)  
-- 🤖 Machine Learning & Deep Learning  
-- 📊 Data Analysis (Pandas, NumPy, Matplotlib)  
-- 🌐 Web Development (HTML, CSS, JavaScript)  
-- ☁️ Cloud & Deployment (basics)  
-- 🔄 ETL Pipelines, Airflow, and MLOps fundamentals  
+```python
+utkarsh = {
+    "focus"     : ["LLMs", "RAG Systems", "NLP", "Applied AI"],
+    "stack"     : ["LangChain", "HuggingFace", "FAISS", "Groq", "Streamlit"],
+    "currently" : "Building AI-powered apps that actually solve real problems",
+    "belief"    : "Ship fast. Learn faster.",
+}
+```
 
 ---
 
-## 🛠️ Projects I’ve Built
-- 🖐️ **Hand Gesture Virtual Keyboard** (OpenCV + cvzone)   
-- 📚 **Book Recommendation System**  
-- 🏠 **Bangalore House Price Prediction**  
+## ⚡ Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 RAG Document Q&A Chatbot
+Ask anything from your own documents — powered by **LLaMA 3 + FAISS + Groq**
+
+`LangChain` `FAISS` `Groq API` `LLaMA 3` `Streamlit`
+
+</td>
+<td width="50%">
+
+### 📖 AI Tutoring System
+Syllabus-grounded tutor for school students using **NCERT PDFs** with memory
+
+`LangChain` `HuggingFace` `FAISS` `ConversationSummaryMemory` `Streamlit`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ✍️ Text to Handwritten Converter
+Converts digital text into realistic handwritten-style images using ML
+
+`Python` `OpenCV` `ML`
+
+</td>
+<td width="50%">
+
+### 🎬 Movie Search App
+Real-time movie search with ratings, posters & details via external API
+
+`JavaScript` `HTML/CSS` `REST API`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎯 My Goals
-- Master Python and Machine Learning  
-- Build more AI + Web full-stack projects  
-- Start contributing to open-source  
-- Create impactful, scalable ML apps  
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 ---
 
-## 📫 Connect With Me
-- 💼 Portfolio (coming soon)  
-- 📧 Email: *2k23csaiml2312195@gmail.com*  
-- 🔗 LinkedIn: *https://www.linkedin.com/in/utkarsh-mishra-209204327*  
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=utssss117&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utssss117&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=utssss117&theme=tokyonight&hide_border=true" width="70%"/>
+
+</div>
 
 ---
 
-## ⚡ Fun Fact  
-I believe in **learning by building** — every project teaches something new!
+## 📫 Let's Connect
 
----
+<div align="center">
 
-### ⭐ If you like my work, feel free to star my repositories!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarsh-mishra-209204327)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2k23csaiml2312195@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/utssss117)
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</div>
