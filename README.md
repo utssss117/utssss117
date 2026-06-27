@@ -7,12 +7,23 @@
 <br/>
 
 ```python
-utkarsh = {
-    "focus"     : ["LLMs", "RAG Systems", "NLP", "Applied AI"],
-    "stack"     : ["LangChain", "HuggingFace", "FAISS", "Groq", "Streamlit"],
-    "currently" : "Building AI-powered apps that actually solve real problems",
-    "belief"    : "Ship fast. Learn faster.",
-}
+class Utkarsh:
+    name       = "Utkarsh Mishra"
+    role       = "AI/ML Developer"
+
+    focus      = ["LLMs", "RAG Systems", "NLP", "Generative AI"]
+    stack      = {
+        "AI/ML"    : ["LangChain", "HuggingFace", "FAISS", "Groq", "Streamlit"],
+        "language" : ["Python", "JavaScript"],
+        "tools"    : ["Git", "VS Code", "Jupyter"],
+    }
+
+    currently  = "Building AI apps that actually solve real problems"
+    learning   = ["Agentic AI", "LangGraph", "Vector DBs", "MLOps"]
+    belief     = "Ship fast. Learn faster. Build smarter. 🚀"
+
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something cool together.")
 ```
 
 ---
@@ -82,14 +93,9 @@ Real-time movie search with ratings, posters & details via external API
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=utssss117&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=utssss117&theme=tokyonight" width="100%"/>
+
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utssss117&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=utssss117&theme=tokyonight&hide_border=true" width="70%"/>
 
 </div>
 
