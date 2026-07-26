@@ -1,23 +1,18 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Utkarsh%20Mishra&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%7C%20LLMs%20%7C%20RAG%20%7C%20NLP&descAlignY=55&descSize=18" width="100%"/>
-
 </div>
-
 <br/>
 
 ```python
 class Utkarsh:
     name       = "Utkarsh Mishra"
     role       = "AI/ML Developer"
-
     focus      = ["LLMs", "RAG Systems", "NLP", "Generative AI"]
     stack      = {
         "AI/ML"    : ["LangChain", "HuggingFace", "FAISS", "Groq", "Streamlit"],
         "language" : ["Python", "JavaScript"],
         "tools"    : ["Git", "VS Code", "Jupyter"],
     }
-
     currently  = "Building AI apps that actually solve real problems"
     learning   = ["Agentic AI", "LangGraph", "Vector DBs", "MLOps"]
     belief     = "Ship fast. Learn faster. Build smarter. 🚀"
@@ -28,42 +23,60 @@ class Utkarsh:
 
 ---
 
+## 🌐 Portfolio
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-delta-three-5o0nkhks69.vercel.app/)
+
+</div>
+
+---
+
 ## ⚡ Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🤖 RAG Document Q&A Chatbot
-Ask anything from your own documents — powered by **LLaMA 3 + FAISS + Groq**
-
-`LangChain` `FAISS` `Groq API` `LLaMA 3` `Streamlit`
+### 🩺 HealthGuard-XAI
+Production-ready ML health risk prediction system with explainable AI — **XGBoost + SHAP + Groq LLM**, served via a FastAPI backend
+`FastAPI` `XGBoost` `SHAP` `Groq` `Next.js` `CI/CD`
 
 </td>
 <td width="50%">
 
-### 📖 AI Tutoring System
-Syllabus-grounded tutor for school students using **NCERT PDFs** with memory
-
-`LangChain` `HuggingFace` `FAISS` `ConversationSummaryMemory` `Streamlit`
+### 🤖 RAG Document Q&A Chatbot
+Ask anything from your own documents — powered by **LLaMA 3 + FAISS + Groq**
+`LangChain` `FAISS` `Groq API` `LLaMA 3` `Streamlit`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### ✍️ Text to Handwritten Converter
-Converts digital text into realistic handwritten-style images using ML
-
-`Python` `OpenCV` `ML`
+### 📖 AI Tutoring System
+Syllabus-grounded tutor for school students using **NCERT PDFs** with memory
+`LangChain` `HuggingFace` `FAISS` `ConversationSummaryMemory` `Streamlit`
 
 </td>
 <td width="50%">
 
+### ✍️ Text to Handwritten Converter
+Converts digital text into realistic handwritten-style images using ML
+`Python` `OpenCV` `ML`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 ### 🎬 Movie Search App
 Real-time movie search with ratings, posters & details via external API
-
 `JavaScript` `HTML/CSS` `REST API`
+
+</td>
+<td width="50%">
 
 </td>
 </tr>
@@ -92,11 +105,8 @@ Real-time movie search with ratings, posters & details via external API
 ## 📊 GitHub Stats
 
 <div align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=utssss117&theme=tokyonight" width="100%"/>
-
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utssss117&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
-
 </div>
 
 ---
@@ -105,6 +115,7 @@ Real-time movie search with ratings, posters & details via external API
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-delta-three-5o0nkhks69.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarsh-mishra-209204327)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2k23csaiml2312195@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/utssss117)
